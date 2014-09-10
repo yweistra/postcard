@@ -33,6 +33,7 @@ class ViewController: UIViewController {
         enterMessageTextField.resignFirstResponder()
         messageLabel.textColor = UIColor.redColor()
         sendMailBurron.setTitle("Mail sent", forState: UIControlState.Normal)
+        //adding comment here to test 
     }
 
 }
